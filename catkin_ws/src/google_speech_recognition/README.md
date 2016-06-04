@@ -22,8 +22,5 @@
  - PyAudio 0.2.9+
  
 **Running it**
- - mkdir -p catkin_ws/src & cd catkin_ws/src 
- - git clone [TODO]
- - cd .. &catkin_make 	
  - roslaunch google_speech_recognition speech_recognition.launch
 
