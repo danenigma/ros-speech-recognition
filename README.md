@@ -20,6 +20,7 @@
  - git clone https://github.com/danenigma/ros-speech-recognition.git
  - cd ./ros-speech-recognition/catkin_ws/
  - catkin_make
+
 **Running it**
  - source ./devel/setup.bash
  - roslaunch google_speech_recognition speech_recognition.launch
