@@ -1,0 +1,4 @@
+<launch>
+	<node pkg = "google_speech_recognition" name = "SPEECH" type = "my_speech_recognition"/>
+	
+</launch>
