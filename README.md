@@ -6,7 +6,7 @@
  
 ----------
 
-**Installing**
+**Install**
  
 > sudo pip install SpeechRecognition
 
@@ -16,9 +16,10 @@
  - Python 2.6, 2.7, or 3.3+ (required)
  - PyAudio 0.2.9+
  
-**Running it**
+**installation**
  - git clone https://github.com/danenigma/ros-speech-recognition.git
- - cd catkin_ws/
+ - cd ./ros-speech-recognition/catkin_ws/
  - catkin_make
+**Running it**
  - source ./devel/setup.bash
  - roslaunch google_speech_recognition speech_recognition.launch
