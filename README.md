@@ -1,8 +1,8 @@
 
-**ROS wrapper for google's speech recognition APi**
+**ROS wrapper for google's speech recognition API**
 ---------------------------------------------------
 
- This is based on [Speech Recognition](https://github.com/Uberi/speech_recognition) 
+It is based on [Speech Recognition](https://github.com/Uberi/speech_recognition) 
  
 ----------
 
